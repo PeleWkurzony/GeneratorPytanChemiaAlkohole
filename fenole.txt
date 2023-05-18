@@ -1,7 +1,7 @@
 benzenol
 fenol
 hydroksybenzen
-2-metylobenzen
+2-metylobenzenol
 ortokrezol
 o-krezol
 3-metylofenol
