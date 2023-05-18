@@ -1,0 +1,13 @@
+Podaj nazwy {0} i narysuj
+Napisz reakcje otrzymywania {0}
+Przeprowadü dysocjacje {0}
+Przeprowadü reakcje {0} z wodorotlenkiem sodu
+Przeprowadü reakcje fenolanu sodu z chlorowodorem
+Przeprowadü reakcje fenolanu sodu z bromowodorem
+Przeprowadü reakcje {0} z sodem
+Przeprowadü reakcje fenolu z rozcieÒczonym kwasem azotowym (V)
+Przeprowadü reakcje fenolu ze stÍøonym kwasem azotowym (V)
+Przeprowadü reakcje fenolu z bromowodorem
+Przeprowadü reakcje fenolu z chlorowodorem
+Przeprowadü reakcje fenolu z chlorkiem øelaza (III) i przeprowadü obserwacje
+test2

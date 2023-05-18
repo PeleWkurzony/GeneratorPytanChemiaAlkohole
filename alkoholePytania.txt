@@ -1,0 +1,18 @@
+Podaj izomerie po≥oøenia podstawnika {0}
+Podaj izomery ≥aÒcucha wÍglowego C5H12O
+Podaj izomery ≥aÒcucha wÍglowego C4H10O
+Podaj reakcje otrzymywania {0}
+Przeprowadü reakcje spalania ca≥kowitego {0}
+Przeprowadü reakcje spalania nieca≥kowitego {0}
+Podaj reakcje powstawania alkoholanu {0}
+Przeprowadü reakcje {0} z chlorowodorem
+Przeprowadü reakcje {0} z bromowodorem
+Przeprowadü reakcje {0} z wodorotlenkiem potasu
+Przeprowadü reakcje dehydracji {0} zgodnie z regu≥π Markownikowa
+Przeprowadü reakcje dehydracji {0} niezgodnie z regu≥π Markownikowa
+Podaj wzÛr glikolu etylenowego
+Podaj wzÛr glikolu propylenowego
+Podaj wzÛr glierolu
+Przeprowadü reakcje fermentacji alkoholowej
+Przeprowadü reakcje glicerolu z wodorotlenkiem miedzi (II) i przeprowadü obserwacje
+test2

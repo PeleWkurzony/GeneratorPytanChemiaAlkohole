@@ -1,0 +1,24 @@
+metanol
+etanol
+propan-1-ol
+propan-2-ol
+butan-1-ol
+butan-2-ol
+pentan-1-ol
+pentan-2-ol
+pentan-3-ol
+heksan-1-ol
+heksan-2-ol
+heksan-3-ol
+heptan-1-ol
+heptan-2-ol
+heptan-3-ol
+heptan-4-ol
+oktan-1-ol
+oktan-2-ol
+oktan-3-ol
+oktan-4-ol
+glikol etylenowy
+glikol propylenowy
+glicerol
+test2
